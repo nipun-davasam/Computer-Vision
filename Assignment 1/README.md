@@ -21,9 +21,8 @@ y =ˆy/ˆw
 
 ## Usage/Examples
 
-1. https://github.com/nipun-davasam/Computer-Vision/tree/e4ac4596bb2c1fd61a692ea3cd4fe74902449025/Assignment%201/Image2
-
-2. https://github.com/nipun-davasam/Computer-Vision/tree/e4ac4596bb2c1fd61a692ea3cd4fe74902449025/Assignment%201/Image2
+![Image_1](https://github.com/nipun-davasam/Computer-Vision/assets/151178533/b24e6353-61ed-4213-a603-9804afb6486f)
+![Image_4](https://github.com/nipun-davasam/Computer-Vision/assets/151178533/ae3eaff6-fca8-4646-9940-364bf1bee960)
 
 ## License
 
