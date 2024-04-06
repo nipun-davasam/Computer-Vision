@@ -19,7 +19,7 @@ y =ˆy/ˆw
 6. Wrapping the final output within bounding box 
 
 
-## Usage/Examples
+## Examples
 
 ![Image_1](https://github.com/nipun-davasam/Computer-Vision/assets/151178533/b24e6353-61ed-4213-a603-9804afb6486f)
 ![Image_4](https://github.com/nipun-davasam/Computer-Vision/assets/151178533/ae3eaff6-fca8-4646-9940-364bf1bee960)
